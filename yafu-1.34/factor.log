@@ -1,0 +1,44 @@
+10/10/24 16:53:04 v1.34.5 @ UAY, 
+10/10/24 16:53:04 v1.34.5 @ UAY, ****************************
+10/10/24 16:53:04 v1.34.5 @ UAY, Starting factorization of 147146340154745985154200417058618375509429599847435251644724920667387711123859666574574555771448231548273485628643446732044692508506300681049465249342648733075298434604272203349484744618070620447136333438842371753842299030085718481197229655334445095544366125552367692411589662686093931538970765914004878579967
+10/10/24 16:53:04 v1.34.5 @ UAY, using pretesting plan: normal
+10/10/24 16:53:04 v1.34.5 @ UAY, no tune info: using qs/gnfs crossover of 95 digits
+10/10/24 16:53:04 v1.34.5 @ UAY, ****************************
+10/10/24 16:53:04 v1.34.5 @ UAY, rho: x^2 + 3, starting 1000 iterations on C309
+10/10/24 16:53:04 v1.34.5 @ UAY, rho: x^2 + 2, starting 1000 iterations on C309
+10/10/24 16:53:05 v1.34.5 @ UAY, rho: x^2 + 1, starting 1000 iterations on C309
+10/10/24 16:53:05 v1.34.5 @ UAY, pm1: starting B1 = 150K, B2 = gmp-ecm default on C309
+10/10/24 16:53:05 v1.34.5 @ UAY, current ECM pretesting depth: 0.00
+10/10/24 16:53:05 v1.34.5 @ UAY, scheduled 30 curves at B1=2000 toward target pretesting depth of 95.08
+10/10/24 16:53:07 v1.34.5 @ UAY, Finished 30 curves using Lenstra ECM method on C309 input, B1=2K, B2=gmp-ecm default
+10/10/24 16:53:07 v1.34.5 @ UAY, current ECM pretesting depth: 15.18
+10/10/24 16:53:07 v1.34.5 @ UAY, scheduled 74 curves at B1=11000 toward target pretesting depth of 95.08
+10/10/24 16:53:26 v1.34.5 @ UAY, Finished 74 curves using Lenstra ECM method on C309 input, B1=11K, B2=gmp-ecm default
+10/10/24 16:53:26 v1.34.5 @ UAY, current ECM pretesting depth: 20.24
+10/10/24 16:53:26 v1.34.5 @ UAY, scheduled 214 curves at B1=50000 toward target pretesting depth of 95.08
+10/10/24 16:57:17 v1.34.5 @ UAY, Finished 214 curves using Lenstra ECM method on C309 input, B1=50K, B2=gmp-ecm default
+10/10/24 16:57:17 v1.34.5 @ UAY, pm1: starting B1 = 3750K, B2 = gmp-ecm default on C309
+10/10/24 16:57:26 v1.34.5 @ UAY, current ECM pretesting depth: 25.33
+10/10/24 16:57:26 v1.34.5 @ UAY, scheduled 430 curves at B1=250000 toward target pretesting depth of 95.08
+10/14/24 10:44:40 v1.34.5 @ UAY, 
+10/14/24 10:44:40 v1.34.5 @ UAY, ****************************
+10/14/24 10:44:40 v1.34.5 @ UAY, Starting factorization of 18104347461003907895610914021247683508445228187648940019610703551961828343286923443588324205257353157349226965840638901792059481287140055747874675375786201782262247550663098932351593199099796736521757473187142907551498526346132033381442243277945568526912391580431142769526917165011590824127172120180838162091
+10/14/24 10:44:40 v1.34.5 @ UAY, using pretesting plan: normal
+10/14/24 10:44:40 v1.34.5 @ UAY, no tune info: using qs/gnfs crossover of 95 digits
+10/14/24 10:44:40 v1.34.5 @ UAY, ****************************
+10/14/24 10:44:40 v1.34.5 @ UAY, rho: x^2 + 3, starting 1000 iterations on C308
+10/14/24 10:44:40 v1.34.5 @ UAY, rho: x^2 + 2, starting 1000 iterations on C308
+10/14/24 10:44:40 v1.34.5 @ UAY, rho: x^2 + 1, starting 1000 iterations on C308
+10/14/24 10:44:40 v1.34.5 @ UAY, pm1: starting B1 = 150K, B2 = gmp-ecm default on C308
+10/14/24 10:44:40 v1.34.5 @ UAY, current ECM pretesting depth: 0.00
+10/14/24 10:44:40 v1.34.5 @ UAY, scheduled 30 curves at B1=2000 toward target pretesting depth of 94.77
+10/14/24 10:44:41 v1.34.5 @ UAY, Finished 30 curves using Lenstra ECM method on C308 input, B1=2K, B2=gmp-ecm default
+10/14/24 10:44:41 v1.34.5 @ UAY, current ECM pretesting depth: 15.18
+10/14/24 10:44:41 v1.34.5 @ UAY, scheduled 74 curves at B1=11000 toward target pretesting depth of 94.77
+10/14/24 10:44:51 v1.34.5 @ UAY, Finished 74 curves using Lenstra ECM method on C308 input, B1=11K, B2=gmp-ecm default
+10/14/24 10:44:51 v1.34.5 @ UAY, current ECM pretesting depth: 20.24
+10/14/24 10:44:51 v1.34.5 @ UAY, scheduled 214 curves at B1=50000 toward target pretesting depth of 94.77
+10/14/24 10:46:41 v1.34.5 @ UAY, Finished 214 curves using Lenstra ECM method on C308 input, B1=50K, B2=gmp-ecm default
+10/14/24 10:46:41 v1.34.5 @ UAY, pm1: starting B1 = 3750K, B2 = gmp-ecm default on C308
+10/14/24 10:46:46 v1.34.5 @ UAY, current ECM pretesting depth: 25.33
+10/14/24 10:46:46 v1.34.5 @ UAY, scheduled 430 curves at B1=250000 toward target pretesting depth of 94.77

@@ -1,0 +1,8 @@
+我重生了，上一世最后一刻我是在一架飞机上。
+这一世，我拿着手上这张照片，下定决心，一定要找到之前坐过的那架航班！
+flag格式：flag{航班号_照片拍摄时飞机经过的地级市}
+示例：flag{YU8915_廊坊市}
+
+B-2419
+flag{MU5156_济宁市}
+https://www.flightera.net/zh/flight_details/China+Eastern+Airlines/MU5156/ZBAA/2024-08-18

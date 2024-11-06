@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="controlMode2" value="1" />
+    <int name="unlockedsolotracks" value="20" />
+    <boolean name="vibrate" value="true" />
+    <int name="unlockedtracks" value="20" />
+    <int name="best0m0" value="132" />
+    <int name="unlockedships" value="6" />
+    <int name="userid" value="9792226" />
+</map>

